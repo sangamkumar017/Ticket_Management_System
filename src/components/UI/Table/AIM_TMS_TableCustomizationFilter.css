@@ -1,0 +1,5 @@
+.AIM-TMS-table-customization-filter-container {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 1rem;
+}

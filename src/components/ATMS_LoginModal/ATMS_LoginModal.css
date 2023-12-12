@@ -1,0 +1,19 @@
+.atms-login-modal-submit-button {
+  background-color: #9254de;
+  &:hover {
+    background-color: #b37feb !important;
+  }
+}
+
+.atms-login-modal-cancel-button {
+  &:hover {
+    color: #b37feb !important;
+    border-color: #b37feb !important;
+  }
+}
+
+.atms-login-modal-input-field {
+  &:hover {
+    border-color: #b37feb !important;
+  }
+}

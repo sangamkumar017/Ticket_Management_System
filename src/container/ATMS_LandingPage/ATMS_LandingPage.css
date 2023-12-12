@@ -1,0 +1,6 @@
+.atms-landing-page-login-button {
+  background-color: #9254de;
+  &:hover {
+    background-color: #b37feb !important;
+  }
+}

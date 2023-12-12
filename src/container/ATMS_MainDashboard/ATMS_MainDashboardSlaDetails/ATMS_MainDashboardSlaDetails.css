@@ -1,0 +1,31 @@
+.ATMS_MainDashboardSlaDetailsContainer {
+  width: 100%;
+  height: 260px;
+  margin-bottom: '22px';
+}
+
+.ATMS_MainDashboardSlaDetailsChartContainer {
+  height: 100%;
+  margin-top: '220px';
+}
+/*  */
+.ATMS_Button button {
+  --transition-duration: 500ms;
+  --transition-easing: ease-out;
+
+  text-decoration: none;
+  color: var(--foreground-color);
+  font-size: 2rem;
+  border: 1px solid rgba(white, 0.6);
+  background-color: rgba(white, 0.1);
+  backdrop-filter: blur(2px);
+  border-radius: 0.5rem;
+  box-shadow: 0px calc(var(--size) / 6) calc(var(--size) / 3) rgba(black, 0.1);
+
+  transition: transform var(--transition-duration) var(--transition-easing);
+  transition-easing: ease-out;
+}
+
+.ATMS_Button button:hover {
+  transform: translateY(-25%);
+}

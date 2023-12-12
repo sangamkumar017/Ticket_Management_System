@@ -1,0 +1,21 @@
+.ATMS_MainDashboardStatisticsDougnutGraph {
+  margin-bottom: 60px;
+  margin-top: 11px;
+  display: flex;
+  height: 350px;
+}
+.ATMS_MainDashboardStatisticsDougnutGraphTittle {
+  text-align: center;
+
+  margin: 1em 0 0.5em 0;
+  font-weight: 10;
+  text-transform: uppercase;
+  color: #1f4fa8;
+  font-style: italic;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+  text-shadow: 2px 5px 0 rgba(138, 137, 137, 0.2);
+  margin-bottom: 30px;
+  margin-top: 30px;
+}

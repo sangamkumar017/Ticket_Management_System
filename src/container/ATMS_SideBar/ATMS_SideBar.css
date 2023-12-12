@@ -1,0 +1,15 @@
+.ant-layout-sider-collapsed {
+  margin-right: 30px;
+}
+
+.atms-main-side-bar-menu-container {
+  position: fixed;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.ant-menu-item-selected {
+  background-color: #f9f0ff !important;
+  color: #b37feb !important;
+}

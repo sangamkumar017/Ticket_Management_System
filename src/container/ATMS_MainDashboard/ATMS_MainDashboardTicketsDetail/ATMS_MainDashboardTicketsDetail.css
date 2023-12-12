@@ -1,0 +1,45 @@
+.button-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 44px;
+}
+
+.resolvedbox,
+.inprogressbox,
+.duetodaybox,
+.unresolvedbox,
+.openbox,
+.inreviewbox,
+.pendingbox {
+  flex: 1;
+  margin: 15px;
+  background-color: rgb(255, 255, 255);
+  padding: 18px;
+  text-align: left;
+  font-size: large;
+  border-radius: 20px;
+  border: 2px outset rgb(235, 231, 231); /* Add red color border */
+
+  & span {
+    margin-left: 36%;
+    font-size: larger;
+    font-weight: bold;
+  }
+}
+.iframecontainer {
+  position: relative;
+  width: 250px;
+  height: 285px;
+  overflow: hidden;
+  margin-left: 22px;
+  margin-top: 0px;
+}
+.iframecontent {
+  position: absolute;
+  top: -222px;
+  left: -1200px;
+  width: 1500px;
+  height: 2000px;
+  margin-left: 42px;
+}

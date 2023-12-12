@@ -1,0 +1,15 @@
+.atms-tickets-page-header-column-filter-content-radio-container {
+  margin-bottom: 5%;
+}
+.atms-tickets-page-layout-header-select-container {
+  width: 100%;
+  justify-content: space-between;
+}
+.atms-tickets-page-layout-header-select-options-container {
+  display: flex;
+  width: 50%;
+}
+
+.atms-tickets-page-layout-header-select {
+  text-align: center;
+}

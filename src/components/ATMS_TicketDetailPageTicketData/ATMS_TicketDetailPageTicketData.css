@@ -1,0 +1,25 @@
+.atms-ticket-details-page-select-menu {
+  text-align: left;
+  margin-top: 6%;
+  margin-left: 5%;
+}
+
+.atms-ticket-details-page-ticket-normal-paragraph {
+  padding: 0.5rem 0;
+}
+.atms-ticket-details-page-ticket-container {
+  text-align: left;
+}
+
+.show-more-button {
+  background: none;
+  border: none;
+  margin-left: 3px;
+}
+
+.atms-ticket-details-page-ticket-container {
+  border-bottom: 2px dashed #d8d3d3;
+  margin-left: 5%;
+  text-align: left;
+  padding-bottom: 10px;
+}

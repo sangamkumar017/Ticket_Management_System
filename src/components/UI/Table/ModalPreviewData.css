@@ -1,0 +1,28 @@
+/* 
+.ant-steps-item-title:after {
+  border: solid rgba(65, 64, 66, 0.1) !important;
+}
+
+
+.ant-steps-item-process > .ant-steps-item-container > .ant-steps-item-icon {
+  background-color: #21d47e;
+  border-color: #21d47e;
+}
+
+.ant-steps {
+  width: 50%;
+}
+
+.ant-steps-horizontal .ant-steps-label-horizontal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ant-steps-item-icon {
+  width: 3em;
+  height: 3em;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+} */

@@ -1,0 +1,54 @@
+.atms-settings-page-container {
+  height: 60vh;
+}
+
+.atms-settings-page-header {
+  text-align: center;
+}
+
+.atms-settings-page-upload-image {
+  text-align: center;
+}
+
+.atms-settings-page-user-details-container {
+  margin: 0 40%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  text-align: center;
+}
+
+.atms-settings-page-user-details-container > button {
+  margin-top: 10px;
+  width: fit-content;
+}
+
+.atms-settings-page-user-logout-button {
+  float: right;
+  margin-right: 50%;
+  background-color: #9254de;
+  margin-top: 0.9%;
+  margin-left: 1%;
+  &:hover {
+    background-color: #b37feb !important;
+  }
+}
+
+.atms-settings-page-button-container {
+  display: flex;
+}
+
+.atms-settings-page-user-submit-button {
+  background-color: #9254de;
+  margin-top: 0.9%;
+  margin-left: 40%;
+  &:hover {
+    background-color: #b37feb !important;
+  }
+}
+
+/* .ant-input-group-addon {
+  color: white !important;
+  background-color: #9254de !important;
+} */
